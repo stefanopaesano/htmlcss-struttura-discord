@@ -23,19 +23,46 @@ html{
     
    
 }
-.debug header aside, #section{
+.debug header aside, #sezione{
     background-color: yellow;
     min-width: 300px;
     border-style: dashed;
 }
-.sezione-2{
+.debug .main-main-conteiner{
     background-color:blue;
     min-width: 10px;
-    border-style: dashed;
     min-height: 250px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+#riquadro1{
+    background-color: pink;
+    width: 400px;
+    height: 200px;
+    border-style: dashed;
+}
+ 
+section{
+    background-color: aqua;
+    width: 400px;
+    height: 200px;
+    border-style: dashed;
+    
+}
+.main-main-conteiner-2{
+    background-color:white;
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#palevioletred{
+    background-color: palevioletred;
+    width: 200px;    
+
 }
 
 
