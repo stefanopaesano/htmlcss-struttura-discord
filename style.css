@@ -12,8 +12,7 @@ html{
 
 
 }
-.debug .header-main-container,
-.debug .footer-main-container{
+.debug .header-main-container{
     background-color: aqua;
     min-height: 50px;
     display: flex;
@@ -45,8 +44,8 @@ html{
  
 section{
     background-color: aqua;
-    width: 400px;
-    height: 200px;
+    width: 550px;
+    height: 30px;
     border-style: dashed;
     
 }
@@ -94,4 +93,43 @@ section{
     margin-bottom: 5px;
 
 }
+.main-main-conteiner-5{
+    background-color:rgb(37, 37, 37);
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#rosa{
+    background-color:pink;
+    width: 150px ;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#chiaro{
+    background-color:aqua;
+    width: 100px ;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+.main-main-conteiner-6{
+    background-color:rgb(37, 37, 37);
+    min-height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#yellow-line{
+    background-color: aquamarine;
+    min-width: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
 
