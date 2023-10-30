@@ -6,3 +6,36 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
 }
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+
+
+}
+.debug .header-main-container,
+.debug .footer-main-container{
+    background-color: aqua;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+   
+}
+.debug header aside, #section{
+    background-color: yellow;
+    min-width: 300px;
+    border-style: dashed;
+}
+.sezione-2{
+    background-color:blue;
+    min-width: 10px;
+    border-style: dashed;
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
