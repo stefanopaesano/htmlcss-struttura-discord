@@ -62,7 +62,36 @@ section{
 #palevioletred{
     background-color: palevioletred;
     width: 200px;    
-
 }
 
+.main-main-conteiner-3{
+    background-color:silver;
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+
+#palevioletred{
+    background-color: palevioletred;
+    width: 200px;  
+}
+
+.main-main-conteiner-4{
+    background-color:silver;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#verde{
+    background-color:green;
+    min-height: 350px;
+    width: 550px ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
 
